@@ -1,0 +1,23 @@
+{
+  "name": "econ-research-skills",
+  "description": "Research skills for economists and finance researchers.",
+  "owner": {
+    "name": "İbrahim Öngören"
+  },
+  "plugins": [
+    {
+      "name": "econ-finance-lit-review",
+      "source": "./",
+      "description": "Comprehensive, systematic, link-verified literature reviews for any economics or finance research question, with three-pass study cards, weaknesses and an illustrated report.",
+      "category": "research",
+      "tags": [
+        "economics",
+        "finance",
+        "literature-review",
+        "systematic-review",
+        "meta-analysis",
+        "citation-verification"
+      ]
+    }
+  ]
+}
