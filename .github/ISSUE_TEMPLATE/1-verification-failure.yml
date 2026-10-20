@@ -1,0 +1,68 @@
+name: Verification failure
+description: A fabricated, mismatched or retracted reference passed the checks, a link did not resolve, or a stage was skipped.
+title: "[Verification]: "
+labels: ["bug", "verification"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Verification failures are the most serious defects this project can have. Please give enough detail to reproduce the case, and remove API keys, institutional tokens and licensed full texts from anything you paste.
+  - type: dropdown
+    id: failure-type
+    attributes:
+      label: Type of failure
+      options:
+        - Fabricated reference (no matching record exists)
+        - Mismatched metadata (authors, year, title, journal or DOI)
+        - Retracted or superseded source used as evidence
+        - Link did not resolve or pointed to a different work
+        - Stage skipped or check bypassed
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference as printed
+      description: The reference exactly as it appeared in the chat or the report.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: registry-record
+    attributes:
+      label: Registry record
+      description: What Crossref, OpenAlex or the publisher's page actually shows, with the link you checked.
+  - type: textarea
+    id: verification-rows
+    attributes:
+      label: Rows of 05_verification.csv
+      description: The relevant rows, if the review folder is available.
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Skill version
+      description: The version in the SKILL.md metadata, or the release you installed.
+      placeholder: "2.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      options:
+        - Claude app (web)
+        - Claude app (desktop)
+        - Claude Code
+        - Claude API or Agent SDK
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: The request that started the review, and any later instruction relevant to the failure.
+    validations:
+      required: true
