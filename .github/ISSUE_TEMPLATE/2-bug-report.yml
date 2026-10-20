@@ -1,0 +1,61 @@
+name: Bug report
+description: A helper script fails or produces incorrect output, or a stage of the workflow misbehaves.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a problem. Please remove API keys, institutional tokens and licensed full texts from anything you paste.
+  - type: input
+    id: component
+    attributes:
+      label: Affected stage or script
+      placeholder: "e.g. Stage 3, import_records.py"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: The command or prompt, the output or error message, and the behavior you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. python3 scripts/init_review.py ...
+        2. python3 scripts/import_records.py ...
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant files or logs
+      description: Excerpts from the review folder (for example 02_search_log.csv) or the full error trace.
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Skill version
+      placeholder: "2.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      options:
+        - Claude app (web)
+        - Claude app (desktop)
+        - Claude Code
+        - Claude API or Agent SDK
+        - Local Python only (scripts run directly)
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Operating system and Python version
+      placeholder: "e.g. Windows 11, Python 3.12"
