@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 422" width="920" height="422" role="img" aria-label="Figure 3. Three-pass reading: from the paper to the study card">
+<title>Figure 3. Three-pass reading: from the paper to the study card</title>
+<defs><marker id="ah0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4c94ea"/></marker><marker id="ah1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f0834f"/></marker><marker id="ah2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#35c48d"/></marker><marker id="ah3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7d8590"/></marker></defs>
+<rect x="0.0" y="26.0" width="200.0" height="366.0" rx="10" fill="#0d1117" stroke="#3d444d" stroke-width="1.0"/>
+<text x="16.0" y="56.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.5" font-weight="700" fill="#9198a1" text-anchor="start">PAPER</text>
+<rect x="12.0" y="74.0" width="176.0" height="44.0" rx="6" fill="#161b22" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="12.0" y="74.0" width="6.0" height="44.0" rx="2" fill="#4c94ea"/>
+<text x="28.0" y="101.5" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" font-weight="700" fill="#f0f6fc" text-anchor="start">Abstract</text>
+<rect x="12.0" y="126.0" width="176.0" height="44.0" rx="6" fill="#161b22" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="12.0" y="126.0" width="6.0" height="44.0" rx="2" fill="#f0834f"/>
+<text x="28.0" y="153.5" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" font-weight="700" fill="#f0f6fc" text-anchor="start">Introduction</text>
+<rect x="12.0" y="178.0" width="176.0" height="44.0" rx="6" fill="#161b22" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="12.0" y="178.0" width="6.0" height="44.0" rx="2" fill="#35c48d"/>
+<text x="28.0" y="205.5" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" font-weight="700" fill="#f0f6fc" text-anchor="start">Literature review</text>
+<rect x="12.0" y="230.0" width="176.0" height="44.0" rx="6" fill="#161b22" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="12.0" y="230.0" width="6.0" height="44.0" rx="2" fill="#f0834f"/>
+<text x="28.0" y="257.5" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.75" font-weight="700" fill="#f0f6fc" text-anchor="start">Data and methodology</text>
+<rect x="12.0" y="282.0" width="176.0" height="44.0" rx="6" fill="#161b22" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="12.0" y="282.0" width="6.0" height="44.0" rx="2" fill="#6e7681"/>
+<text x="28.0" y="309.5" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" fill="#9198a1" text-anchor="start">Results, tables</text>
+<rect x="12.0" y="334.0" width="176.0" height="44.0" rx="6" fill="#161b22" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="12.0" y="334.0" width="6.0" height="44.0" rx="2" fill="#4c94ea"/>
+<text x="28.0" y="361.5" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" font-weight="700" fill="#f0f6fc" text-anchor="start">Conclusion</text>
+<rect x="246.0" y="0.0" width="300.0" height="104.0" rx="9" fill="#161b22" stroke="#4c94ea" stroke-width="1.5"/>
+<text x="260.0" y="27.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.5" font-weight="700" fill="#4c94ea" text-anchor="start">PASS 1</text>
+<text x="315.8" y="27.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="15" font-weight="700" fill="#f0f6fc" text-anchor="start">Abstract → Conclusion</text>
+<text x="260.0" y="52.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">Question, sample, method, main result (sign,</text>
+<text x="260.0" y="69.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">size, units); do the conclusions match the</text>
+<text x="260.0" y="86.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">evidence?</text>
+<path d="M188,96.0 C222,96.0 220,52.0 244,52.0" fill="none" stroke="#4c94ea" stroke-width="1.6" marker-end="url(#ah0)"/>
+<path d="M188,356.0 C222,356.0 220,52.0 244,52.0" fill="none" stroke="#4c94ea" stroke-width="1.6" marker-end="url(#ah0)"/>
+<rect x="246.0" y="157.0" width="300.0" height="104.0" rx="9" fill="#161b22" stroke="#f0834f" stroke-width="1.5"/>
+<text x="260.0" y="184.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.5" font-weight="700" fill="#f0834f" text-anchor="start">PASS 2</text>
+<text x="315.8" y="184.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="15" font-weight="700" fill="#f0f6fc" text-anchor="start">Introduction → Methodology</text>
+<text x="260.0" y="209.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">Claimed contribution, specification,</text>
+<text x="260.0" y="226.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">identification, data, estimation, robustness.</text>
+<path d="M188,148.0 C222,148.0 220,209.0 244,209.0" fill="none" stroke="#f0834f" stroke-width="1.6" marker-end="url(#ah1)"/>
+<path d="M188,252.0 C222,252.0 220,209.0 244,209.0" fill="none" stroke="#f0834f" stroke-width="1.6" marker-end="url(#ah1)"/>
+<rect x="246.0" y="314.0" width="300.0" height="104.0" rx="9" fill="#161b22" stroke="#35c48d" stroke-width="1.5"/>
+<text x="260.0" y="341.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.5" font-weight="700" fill="#35c48d" text-anchor="start">PASS 3</text>
+<text x="315.8" y="341.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="15" font-weight="700" fill="#f0f6fc" text-anchor="start">Literature review</text>
+<text x="260.0" y="366.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">Strands and key works it builds on, the gap it</text>
+<text x="260.0" y="383.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">claims, what it does not engage with.</text>
+<path d="M188,200.0 C222,200.0 220,366.0 244,366.0" fill="none" stroke="#35c48d" stroke-width="1.6" marker-end="url(#ah2)"/>
+<rect x="584.0" y="0.0" width="336.0" height="418.0" rx="10" fill="#161b22" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="584.0" y="0.0" width="336.0" height="5.0" rx="2" fill="#4c94ea"/>
+<text x="600.0" y="29.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.5" font-weight="700" fill="#9198a1" text-anchor="start">STUDY CARD</text>
+<text x="600.0" y="54.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14.5" font-weight="700" fill="#f0f6fc" text-anchor="start">[n]  Author (Year) — Title of the study</text>
+<text x="600.0" y="74.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.5" fill="#9198a1" text-anchor="start">Journal · doi.org link · ✓ verified · [FT]</text>
+<rect x="598.0" y="92.0" width="308.0" height="72.0" rx="7" fill="#0d1117" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="598.0" y="92.0" width="4.0" height="72.0" rx="2" fill="#4c94ea"/>
+<text x="614.0" y="115.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" font-weight="700" fill="#f0f6fc" text-anchor="start">WHAT DID IT DO?</text>
+<text x="614.0" y="135.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">question → data → method → finding →</text>
+<text x="614.0" y="152.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">contribution</text>
+<rect x="598.0" y="172.0" width="308.0" height="72.0" rx="7" fill="#0d1117" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="598.0" y="172.0" width="4.0" height="72.0" rx="2" fill="#f0834f"/>
+<text x="614.0" y="195.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" font-weight="700" fill="#f0f6fc" text-anchor="start">WHAT DID IT LEAVE OUT?</text>
+<text x="614.0" y="215.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">variables, channels, countries, periods,</text>
+<text x="614.0" y="232.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">methods</text>
+<rect x="598.0" y="252.0" width="308.0" height="89.0" rx="7" fill="#0d1117" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="598.0" y="252.0" width="4.0" height="89.0" rx="2" fill="#ff6b6b"/>
+<text x="614.0" y="275.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" font-weight="700" fill="#f0f6fc" text-anchor="start">WEAKNESSES</text>
+<text x="614.0" y="295.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">category · severity · location · basis</text>
+<rect x="614.0" y="307.0" width="292.6" height="25.0" rx="12.5" fill="#2d2329" stroke="#7f3f43" stroke-width="1.0"/>
+<text x="623.0" y="324.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="9.5" fill="#f0f6fc" text-anchor="start">[Identification · high] expectations assumed exogenous (Sec. 3.2)</text>
+<rect x="598.0" y="349.0" width="308.0" height="55.0" rx="7" fill="#0d1117" stroke="#3d444d" stroke-width="1.0"/>
+<rect x="598.0" y="349.0" width="4.0" height="55.0" rx="2" fill="#35c48d"/>
+<text x="614.0" y="372.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" font-weight="700" fill="#f0f6fc" text-anchor="start">RELEVANCE</text>
+<text x="614.0" y="392.0" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13" fill="#9198a1" text-anchor="start">contribution to the user's own research</text>
+<line x1="552.0" y1="209.0" x2="578.0" y2="209.0" stroke="#7d8590" stroke-width="1.6" marker-end="url(#ah3)"/>
+</svg>

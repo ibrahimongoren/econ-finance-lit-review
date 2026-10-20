@@ -1,0 +1,14 @@
+# Optional Python clients for working with the same sources interactively (Jupyter, your own scripts).
+# The skill's scripts do NOT need them: they use only the Python standard library for search,
+# plus numpy (meta-analysis), matplotlib (figures), openpyxl (workbook) and python-docx (report).
+# Versions current on PyPI on 2026-10-20.
+pyalex>=0.21            # OpenAlex
+habanero>=2.9.2         # Crossref
+semanticscholar>=0.12.0 # Semantic Scholar
+pybliometrics>=4.4.1    # Scopus (Elsevier key + institutional access)
+elsapy>=0.5.1           # Elsevier APIs (Scopus, ScienceDirect)
+arxiv>=4.0.1            # arXiv
+serpapi>=1.1.2          # Google Scholar through SerpApi (paid key)
+pyzotero>=1.16.0        # Zotero libraries
+# Web of Science Starter API client (Clarivate, GitHub only):
+# pip install git+https://github.com/clarivate/wosstarter_python_client.git

@@ -1,0 +1,33 @@
+{
+  "mcpServers": {
+    "paper-search": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["paper-search-mcp"],
+      "env": {
+        "PAPER_SEARCH_MCP_UNPAYWALL_EMAIL": "${CONTACT_EMAIL}",
+        "PAPER_SEARCH_MCP_CORE_API_KEY": "${CORE_API_KEY:-}",
+        "PAPER_SEARCH_MCP_SEMANTIC_SCHOLAR_API_KEY": "${S2_API_KEY:-}",
+        "PAPER_SEARCH_MCP_OPENALEX_API_KEY": "${OPENALEX_API_KEY:-}"
+      }
+    },
+    "arxiv": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["arxiv-mcp-server"]
+    },
+    "zotero": {
+      "type": "stdio",
+      "command": "zotero-mcp",
+      "env": { "ZOTERO_LOCAL": "true" }
+    },
+    "elicit": {
+      "type": "http",
+      "url": "https://elicit.com/api/mcp"
+    },
+    "consensus": {
+      "type": "http",
+      "url": "https://mcp.consensus.app/mcp"
+    }
+  }
+}
