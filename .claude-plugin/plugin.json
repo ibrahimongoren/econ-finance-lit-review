@@ -1,0 +1,26 @@
+{
+  "name": "econ-finance-lit-review",
+  "displayName": "Economics & Finance Literature Review",
+  "version": "2.0.0",
+  "description": "Comprehensive, systematic, link-verified literature reviews for any economics or finance research question: question-first intake, a default five-year window, search across Web of Science, Scopus, ScienceDirect, Google Scholar, Semantic Scholar, OpenAlex, Crossref, arXiv, Consensus and Elicit, three-pass study cards with weaknesses in the chat, and an illustrated DOCX/PDF report.",
+  "author": {
+    "name": "İbrahim Öngören"
+  },
+  "repository": "https://github.com/ibrahimongoren/econ-finance-lit-review",
+  "license": "MIT",
+  "keywords": [
+    "literature-review",
+    "systematic-review",
+    "economics",
+    "finance",
+    "prisma",
+    "meta-analysis",
+    "citation-verification",
+    "research",
+    "web-of-science",
+    "scopus",
+    "semantic-scholar",
+    "openalex",
+    "mcp"
+  ]
+}
