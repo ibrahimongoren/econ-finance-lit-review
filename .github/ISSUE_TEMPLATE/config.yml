@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/ibrahimongoren/econ-finance-lit-review/security
+    about: Please report security issues privately through the Security tab (see SECURITY.md).
