@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Build output (attach the zip to a GitHub Release instead of committing it)
+dist/
+
+# Review working folders created while using the skill
+litrev-*/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets (keep integrations/.env.example)
+.env
+*.env
+!.env.example
+.mcp.json

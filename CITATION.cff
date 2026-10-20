@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+type: software
+title: "econ-finance-lit-review: Systematic, link-verified literature reviews for economics and finance"
+abstract: "An Agent Skill for Claude that turns a research question into a documented systematic review: question-first intake, a fixed publication window, multi-database search, registry-based verification of every reference, three-pass study cards with weakness analysis, certainty-graded answers, a PRISMA 2020 audit trail and an optional illustrated report."
+authors:
+  - family-names: "Öngören"
+    given-names: "İbrahim"
+version: 2.0.0
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/ibrahimongoren/econ-finance-lit-review"
+keywords:
+  - literature review
+  - systematic review
+  - economics
+  - finance
+  - PRISMA 2020
+  - meta-analysis
+  - citation verification
+  - agent skill
