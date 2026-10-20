@@ -1,0 +1,36 @@
+name: Source or feature request
+description: Propose a source, import format, regional source pack, template translation or feature.
+title: "[Request]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Request type
+      options:
+        - Source or regional source pack
+        - Import format or source adapter
+        - Template translation
+        - Weakness-taxonomy example
+        - Other feature
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should be added and why. For a source, give its official URL, its access conditions and the date on which you tested the access route.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Research use case
+      description: The kind of review or research question that would benefit.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms of use
+      options:
+        - label: Any access route proposed here complies with the provider's terms of use (no prohibited scraping, no circumvention of access controls, no shadow libraries).
+          required: true
